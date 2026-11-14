@@ -1,0 +1,17 @@
+# Datos originales
+data/raw/
+*.csv
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
